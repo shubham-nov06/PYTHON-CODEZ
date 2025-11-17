@@ -30,3 +30,9 @@ print(num)
 
 num.clear()
 print(num)
+
+int = [1,2,3,4,5,6,7,8,9]
+print(int.count(3)) 
+print(int.count(10))
+print(friends.count("banana"))  
+print(friends.count("Pankaj"))
